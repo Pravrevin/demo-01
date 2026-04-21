@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Vertical Grid Line Effect */
+/* Vertical Grid Linevxcv cvcx Effect */
 .bg-grid {
   background-image: linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
   background-size: 12.5% 100%;
